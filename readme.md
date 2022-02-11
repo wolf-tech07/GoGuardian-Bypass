@@ -3,7 +3,7 @@
 ## A successful attempt to bypass GoGuardian.
 
 ### [GoGuardian Bypasser Link](http://foxxy.lol/goguardianbypass/)
-### [Alternate Link](https://ggby.bss.design/)
+### [Alternate Link (RECOMMENDED FOR CERTAIN CONFIGS OF GOGUARDIAN)](https://ggby.bss.design/)
 GoGuardian is a pretty flawed piece of software. It has been bypassed many times in the past, however all of those bypasses lead up to this. A working GoGuardian bypass that runs completely on the client.
 (Well, CORS is a thing, so it's not perfect, that's why the website in this repo has a compatibility mode checkbox, which uses google translate)
 
