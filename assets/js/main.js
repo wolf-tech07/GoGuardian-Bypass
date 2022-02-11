@@ -8,18 +8,11 @@ document.getElementById("submit").onclick = function() {
     submit.visibility = 'hidden';
     particl.remove();
     var inputVal;
-    if(cmp.checked){
-        inputVal = input.value;
-        inputVal = "https://translate.google.com/website?sl=auto&tl=en&ajax=1&elem=1&se=1&u=" + inputVal;
-        
-        
-    }else{
                 inputVal = input.value;
-
-    }
     ifr.visibility = 'visible';
     ifr.style = 'position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;';
-    ifr.src = inputVal;
+   ifr.src = inputVal;
+
  /*   var xhr = new XMLHttpRequest();
 
 xhr.open('GET', inputVal);
