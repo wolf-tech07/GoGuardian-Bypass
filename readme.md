@@ -2,6 +2,8 @@
 
 ## A successful attempt to bypass GoGuardian.
 
+# SOMETHING BIG IS COMING, GET HYPED :OOOO
+
 ### [GoGuardian Bypasser Link](http://foxxy.lol/goguardianbypass/)
 ### [Alternate Link (RECOMMENDED FOR CERTAIN CONFIGS OF GOGUARDIAN)](https://ggby.bss.design/)
 GoGuardian is a pretty flawed piece of software. It has been bypassed many times in the past, however all of those bypasses lead up to this. A working GoGuardian bypass that runs completely on the client.
